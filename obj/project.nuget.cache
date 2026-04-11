@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8fNVnvJ4TdU=",
+  "success": true,
+  "projectFilePath": "D:\\RiderProjectsMas\\DevTrack\\DevTrackAPI\\DevTrackAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sergi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\sergi\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
